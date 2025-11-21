@@ -1,0 +1,33 @@
+{
+    "contacts": [
+
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "phone": "123-456-7890",
+            "UserID": 1
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "aujhbfai@gmail.com",
+            "phone": "987-654-3210",
+            "UserID": 2}
+
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "himanshu",
+            "email":"aujhbfai@gmail.com",
+            "password": "himanshu123"
+        },
+        {
+            "id": 2,
+            "username": "johndoe",
+            "email":"johndoe@gmail.com",
+            "password": "johndoe123"
+        }
+    ]
+}
